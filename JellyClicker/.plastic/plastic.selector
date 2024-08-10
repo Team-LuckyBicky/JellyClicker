@@ -1,0 +1,4 @@
+repository "JellyClicker@LuckyBicky@cloud"
+  path "/"
+    br "/main"
+    co "/main"
